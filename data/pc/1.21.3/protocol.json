@@ -853,6 +853,7 @@
                     }
                   ]
                 ],
+                "glider":"void",
                 "tooltip_style": "string",
                 "death_protection": [
                   "container",
